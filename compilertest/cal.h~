@@ -1,0 +1,9 @@
+#ifndef CAL_H
+#define CAL_H
+
+extern "C" int f1(int a, int b);
+
+extern "C" void WhichCompilerCal();
+
+
+#endif // CAL_H
